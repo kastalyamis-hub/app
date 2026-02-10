@@ -1,0 +1,6 @@
+streamlit
+qrcode
+gTTS
+PyMuPDF
+Pillow
+pytesseract
